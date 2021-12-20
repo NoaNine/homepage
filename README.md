@@ -1,2 +1,2 @@
 # homepage
-My very own personal website. Basically this is just a resume
+Hi, my name is Oleksandr and it`s my resume on website. 
